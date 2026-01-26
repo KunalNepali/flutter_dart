@@ -1,3 +1,5 @@
+import 'dart:convert';
+
 class BmiRecord {
   final DateTime date;
   final double height; // in cm

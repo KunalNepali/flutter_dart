@@ -1,3 +1,4 @@
+import 'dart:convert'; // Add this import
 import 'package:shared_preferences/shared_preferences.dart';
 import '../models/bmi_record.dart';
 

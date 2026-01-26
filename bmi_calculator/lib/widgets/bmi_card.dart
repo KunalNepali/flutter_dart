@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:intl/intl.dart'; // Add this import
 import '../models/bmi_record.dart';
 
 class BmiCard extends StatelessWidget {
@@ -29,8 +30,8 @@ class BmiCard extends StatelessWidget {
         background: Container(
           color: Colors.red,
           alignment: Alignment.centerRight,
-          padding: EdgeInsets.only(right: 20),
-          child: Icon(Icons.delete, color: Colors.white),
+          padding: const EdgeInsets.only(right: 20),
+          child: const Icon(Icons.delete, color: Colors.white),
         ),
         onDismissed: (_) => onDelete(),
         child: ListTile(

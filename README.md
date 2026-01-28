@@ -14,6 +14,8 @@ This repository contains multiple **Flutter & Dart projects** built for learning
 |  **Registration Form App** | A simple Flutter app demonstrating user registration form with: Input fields: Name, Email, Password, Confirm Password, Validation for empty fields and email format, Submit button (prints values in console), Basic responsive UI  |
 |  **Loksewa Quiz Application** | A production-quality Flutter application designed for Nepal Police (Loksewa) exam preparation, featuring comprehensive quiz system with local persistence, clean architecture, and Material 3 design. |  
 |  **Log Screen Application** |  A production-quality Flutter application featuring a sophisticated logging interface with local persistence, clean architecture, and Material 3 design. Designed as a reusable component for any Flutter project requiring structured logging capabilities. |  
+|  **Login/Signup Auth System** |  A production-ready Flutter authentication application with complete login/register flow, featuring SharedPreferences local persistence, clean architecture with Cubit state management, Material 3 design, and JSON serialization for user data management.|
+ | A production-ready Flutter authentication application with complete login/register flow, featuring SharedPreferences local persistence, clean architecture with Cubit state management, Material 3 design, and JSON serialization for user data management.
 > Each project has its own **README.md** with detailed instructions.
 
 ---
@@ -72,6 +74,14 @@ flutter_dart/
 │   ├── pubspec.yaml
 │   └── README.md
 ├── loksewa_quiz_app/
+│   ├── lib/
+│   ├── pubspec.yaml
+│   └── README.md
+├── login_page/
+│   ├── lib/
+│   ├── pubspec.yaml
+│   └── README.md
+├── log_screen_ui/
 │   ├── lib/
 │   ├── pubspec.yaml
 │   └── README.md

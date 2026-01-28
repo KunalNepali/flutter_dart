@@ -1,0 +1,46 @@
+name: auth_app
+description: A Flutter authentication app
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  # State Management
+  flutter_bloc: ^8.1.3
+  
+  # Local Storage
+  shared_preferences: ^2.2.2
+  
+  # JSON Serialization
+  json_annotation: ^4.8.1
+  
+  # Equatable for value comparison
+  equatable: ^2.0.5
+  
+  # Material Design
+  flutter_localizations:
+    sdk: flutter
+  
+  # Internationalization
+  intl: any
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  
+  # JSON Serialization tools
+  build_runner: ^2.4.6
+  json_serializable: ^6.7.1
+  
+  # Linting
+  flutter_lints: ^3.0.1
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/

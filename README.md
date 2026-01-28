@@ -15,7 +15,7 @@ This repository contains multiple **Flutter & Dart projects** built for learning
 |  **Loksewa Quiz Application** | A production-quality Flutter application designed for Nepal Police (Loksewa) exam preparation, featuring comprehensive quiz system with local persistence, clean architecture, and Material 3 design. |  
 |  **Log Screen Application** |  A production-quality Flutter application featuring a sophisticated logging interface with local persistence, clean architecture, and Material 3 design. Designed as a reusable component for any Flutter project requiring structured logging capabilities. |  
 |  **Login/Signup Auth System** |  A production-ready Flutter authentication application with complete login/register flow, featuring SharedPreferences local persistence, clean architecture with Cubit state management, Material 3 design, and JSON serialization for user data management.|
- | A production-ready Flutter authentication application with complete login/register flow, featuring SharedPreferences local persistence, clean architecture with Cubit state management, Material 3 design, and JSON serialization for user data management.
+
 > Each project has its own **README.md** with detailed instructions.
 
 ---

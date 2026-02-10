@@ -87,6 +87,10 @@ flutter_dart/
 │   ├── lib/
 │   ├── pubspec.yaml
 │   └── README.md
+├── course_app/
+│   ├── lib/
+│   ├── pubspec.yaml
+│   └── README.md
 └── README.md   <-- (This file)
 
 Best Practices Followed

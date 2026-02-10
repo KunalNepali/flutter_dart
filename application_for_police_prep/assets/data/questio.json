@@ -1,0 +1,172 @@
+{
+  "history": [
+    {
+      "id": "hist_1",
+      "categoryId": "history",
+      "questionText": "Who was the first king of unified Nepal?",
+      "options": ["Prithvi Narayan Shah", "Tribhuvan Shah", "Birendra Shah", "Mahendra Shah"],
+      "correctAnswerIndex": 0,
+      "explanation": "Prithvi Narayan Shah unified Nepal in 1768."
+    },
+    {
+      "id": "hist_2",
+      "categoryId": "history",
+      "questionText": "What year did Nepal become a federal democratic republic?",
+      "options": ["2006", "2008", "1990", "2015"],
+      "correctAnswerIndex": 1,
+      "explanation": "Nepal became a federal republic in 2008 by abolishing the monarchy."
+    },
+    {
+      "id": "hist_3",
+      "categoryId": "history",
+      "questionText": "Which king introduced the 'Muluki Ain' or national code of Nepal?",
+      "options": ["Mahendra Shah", "Rajendra Bikram Shah", "Jung Bahadur Rana", "Prithvi Narayan Shah"],
+      "correctAnswerIndex": 2,
+      "explanation": "Jung Bahadur Rana introduced the Muluki Ain in 1854 as Nepal's first unified legal code."
+    },
+    {
+      "id": "hist_4",
+      "categoryId": "history",
+      "questionText": "Who was the founder of the Gorkha kingdom?",
+      "options": ["Ram Shah", "Narendra Shah", "Dhruba Shah", "Dravya Shah"],
+      "correctAnswerIndex": 3,
+      "explanation": "Dravya Shah established the Gorkha kingdom in 1559."
+    }
+  ],
+  "currentAffairs": [
+    {
+      "id": "cur_1",
+      "categoryId": "currentAffairs",
+      "questionText": "Who is the current President of Nepal (as of 2026)?",
+      "options": ["Ram Baran Yadav", "Bidhya Devi Bhandari", "Ram Chandra Poudel", "Sher Bahadur Deuba"],
+      "correctAnswerIndex": 2,
+      "explanation": "Ram Chandra Poudel became the third President of Nepal in 2023."
+    },
+    {
+      "id": "cur_2",
+      "categoryId": "currentAffairs",
+      "questionText": "Which country hosted the 2024 Summer Olympics?",
+      "options": ["China", "Japan", "France", "USA"],
+      "correctAnswerIndex": 2,
+      "explanation": "France hosted the 2024 Summer Olympics in Paris."
+    },
+    {
+      "id": "cur_3",
+      "categoryId": "currentAffairs",
+      "questionText": "What is the name of the agreement signed at COP28 in 2025?",
+      "options": ["New York Agreement", "Dubai Climate Agreement", "Paris Agreement", "Glasgow Climate Pact"],
+      "correctAnswerIndex": 1,
+      "explanation": "The Dubai Climate Agreement was signed at the COP28 summit in 2025."
+    },
+    {
+      "id": "cur_4",
+      "categoryId": "currentAffairs",
+      "questionText": "Which organization won the 2025 Nobel Peace Prize?",
+      "options": ["World Health Organization", "UNICEF", "World Food Programme", "Human Rights Watch"],
+      "correctAnswerIndex": 2,
+      "explanation": "The World Food Programme was awarded the Nobel Peace Prize in 2025 for its efforts in combating hunger."
+    }
+],
+  "english": [
+    {
+      "id": "eng_1",
+      "categoryId": "english",
+      "questionText": "Choose the correctly spelled word.",
+      "options": ["Scienc", "Science", "Sciense", "Scens"],
+      "correctAnswerIndex": 1,
+      "explanation": "The correct spelling is 'Science'."
+    },
+    {
+      "id": "eng_2",
+      "categoryId": "english",
+      "questionText": "What is the synonym of 'Quick'?",
+      "options": ["Slow", "Fast", "Sharp", "Lazy"],
+      "correctAnswerIndex": 1,
+      "explanation": "The synonym of 'Quick' is 'Fast.'"
+    },
+    {
+      "id": "eng_3",
+      "categoryId": "english",
+      "questionText": "What is the antonym of 'Happy'?",
+      "options": ["Glad", "Joyful", "Sad", "Excited"],
+      "correctAnswerIndex": 2,
+      "explanation": "The antonym of 'Happy' is 'Sad.'"
+    },
+    {
+      "id": "eng_4",
+      "categoryId": "english",
+      "questionText": "Which sentence uses the correct verb tense?",
+      "options": ["She has went to the market.", "She has goes to the market.", "She has gone to the market.", "She have gone to the market."],
+      "correctAnswerIndex": 2,
+      "explanation": "The correct sentence is: 'She has gone to the market.'"
+    }
+  ],
+  "nepali": [
+    {
+      "id": "nep_1",
+      "categoryId": "nepali",
+      "questionText": "नेपालको राष्ट्रिय गानको शीर्षक के हो?",
+      "options": ["सयौं थुँगा फूलका", "पंचायत शासन", "जनयुद्ध", "गौतम बुद्ध"],
+      "correctAnswerIndex": 0,
+      "explanation": "नेपालको राष्ट्रिय गानको शीर्षक 'सयौं थुँगा फूलका' हो ।"
+    },
+    {
+      "id": "nep_2",
+      "categoryId": "nepali",
+      "questionText": "नेपाल को संविधान कति पटक परिवर्तन भइसकेको छ?",
+      "options": ["तीन पटक", "चार पटक", "पाँच पटक", "छ पटक"],
+      "correctAnswerIndex": 0,
+      "explanation": "नेपालको संविधान हालसम्म तीन पटक बदलिएको छ।"
+    },
+    {
+      "id": "nep_3",
+      "categoryId": "nepali",
+      "questionText": "‘नेपाल’ शब्दको शाब्दिक अर्थ के हो?",
+      "options": ["हिमालहरूको देश", "सिद्धहरुको निवास", "पर्वतहरुको नगरी", "गुफाहरूको क्षेत्र"],
+      "correctAnswerIndex": 1,
+      "explanation": "‘नेपाल’ शब्दको शाब्दिक अर्थ सिद्धहरुको ���िवास हो।"
+    },
+    {
+      "id": "nep_4",
+      "categoryId": "nepali",
+      "questionText": "‘कर्णाली’ शब्दको अर्थ के हो?",
+      "options": ["प्रेम", "साहस", "अमूल्य", "खन्याउने स्थान"],
+      "correctAnswerIndex": 3,
+      "explanation": "‘कर्णाली’ शब्दको अर्थ खन्याउने ठाउँ हो।"
+    }
+  ],
+  "logicAndReasoning": [
+    {
+      "id": "log_1",
+      "categoryId": "logicAndReasoning",
+      "questionText": "If A is the brother of B, B is the sister of C, and C is the father of D, then how is A related to D?",
+      "options": ["Father", "Uncle", "Brother", "Grandfather"],
+      "correctAnswerIndex": 1,
+      "explanation": "A is the brother of B, and B is the sister of D's father. Thus, A is D's uncle."
+    },
+    {
+      "id": "log_2",
+      "categoryId": "logicAndReasoning",
+      "questionText": "Complete the sequence: 2, 4, 8, 16, __?",
+      "options": ["20", "24", "32", "64"],
+      "correctAnswerIndex": 2,
+      "explanation": "The sequence is doubling each time. The next number is 16 × 2 = 32."
+    },
+    {
+      "id": "log_3",
+      "categoryId": "logicAndReasoning",
+      "questionText": "Which of the following words is the odd one out?",
+      "options": ["Apple", "Banana", "Carrot", "Mango"],
+      "correctAnswerIndex": 2,
+      "explanation": "Carrot is a vegetable, while the others are fruits."
+    },
+    {
+      "id": "log_4",
+      "categoryId": "logicAndReasoning",
+      "questionText": "What is the next number in the series: 5, 10, 17, 26, __?",
+      "options": ["35", "36", "39", "38"],
+      "correctAnswerIndex": 1,
+      "explanation": "The series increases by successive odd numbers: 5+5, 10+7, 17+9, and 26+11 = 37."
+    }
+  ]
+}

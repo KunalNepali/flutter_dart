@@ -1,0 +1,532 @@
+{
+  "geography": [
+    {
+      "id": "geo_1",
+      "categoryId": "geography",
+      "questionText": "What is the capital of Nepal?",
+      "options": ["Pokhara", "Kathmandu", "Biratnagar", "Lalitpur"],
+      "correctAnswerIndex": 1,
+      "explanation": "Kathmandu is the capital and largest city of Nepal."
+    },
+    {
+      "id": "geo_2",
+      "categoryId": "geography",
+      "questionText": "Which is the highest mountain in the world?",
+      "options": ["K2", "Kangchenjunga", "Mount Everest", "Lhotse"],
+      "correctAnswerIndex": 2,
+      "explanation": "Mount Everest is the highest mountain above sea level at 8,848 meters."
+    },
+    {
+      "id": "geo_3",
+      "categoryId": "geography",
+      "questionText": "Which river is known as the 'Sorrow of Bihar'?",
+      "options": ["Gandaki", "Koshi", "Bagmati", "Karnali"],
+      "correctAnswerIndex": 1,
+      "explanation": "Koshi River is known as the 'Sorrow of Bihar' due to frequent floods."
+    },
+    {
+      "id": "geo_4",
+      "categoryId": "geography",
+      "questionText": "How many provinces are there in Nepal?",
+      "options": ["5", "6", "7", "8"],
+      "correctAnswerIndex": 2,
+      "explanation": "Nepal is divided into 7 provinces according to the 2015 constitution."
+    },
+    {
+      "id": "geo_5",
+      "categoryId": "geography",
+      "questionText": "What is the total area of Nepal?",
+      "options": ["1,47,282 km sq.", "2,67,575 km sq.", "1,47,516 km sq.", "1,47,181 km sq."],
+      "correctAnswerIndex": 3,
+      "explanation": "After Publishing New Map of Nepal on Jestha 5, 2077, 335 km sq. was added."
+    },
+    {
+      "id" : "geo_6" ,
+      "categoryId": "geography",
+      "questionText": "What is latitude and Longitude of Nepal?", 
+      "options" : ["" , "", "", ""],
+      "correctAnswerIndex": ,
+      "explanation": ""
+    },
+    {
+      "id" : ,
+      "categoryId": "geography",
+      "questionText": , 
+      "options" : ["" , "", "", ""],
+      "correctAnswerIndex": ,
+      "explanation": ""
+    },
+    {
+      "id" : ,
+      "categoryId": "geography",
+      "questionText": , 
+      "options" : ["" , "", "", ""],
+      "correctAnswerIndex": ,
+      "explanation": ""
+    },
+    {
+      "id" : ,
+      "categoryId": "geography",
+      "questionText": , 
+      "options" : ["" , "", "", ""],
+      "correctAnswerIndex": ,
+      "explanation": ""
+    },
+    {
+      "id" : ,
+      "categoryId": "geography",
+      "questionText": , 
+      "options" : ["" , "", "", ""],
+      "correctAnswerIndex": ,
+      "explanation": ""
+    },
+    {
+      "id" : ,
+      "categoryId": "geography",
+      "questionText": , 
+      "options" : ["" , "", "", ""],
+      "correctAnswerIndex": ,
+      "explanation": ""
+    },
+    {
+      "id" : ,
+      "categoryId": "geography",
+      "questionText": , 
+      "options" : ["" , "", "", ""],
+      "correctAnswerIndex": ,
+      "explanation": ""
+    },
+    {
+      "id" : ,
+      "categoryId": "geography",
+      "questionText": , 
+      "options" : ["" , "", "", ""],
+      "correctAnswerIndex": ,
+      "explanation": ""
+    },
+    {
+      "id" : ,
+      "categoryId": "geography",
+      "questionText": , 
+      "options" : ["" , "", "", ""],
+      "correctAnswerIndex": ,
+      "explanation": ""
+    },
+    {
+      "id" : ,
+      "categoryId": "geography",
+      "questionText": , 
+      "options" : ["" , "", "", ""],
+      "correctAnswerIndex": ,
+      "explanation": ""
+    },
+    {
+      "id" : ,
+      "categoryId": "geography",
+      "questionText": , 
+      "options" : ["" , "", "", ""],
+      "correctAnswerIndex": ,
+      "explanation": ""
+    },
+    {
+      "id" : ,
+      "categoryId": "geography",
+      "questionText": , 
+      "options" : ["" , "", "", ""],
+      "correctAnswerIndex": ,
+      "explanation": ""
+    },
+    {
+      "id" : ,
+      "categoryId": "geography",
+      "questionText": , 
+      "options" : ["" , "", "", ""],
+      "correctAnswerIndex": ,
+      "explanation": ""
+    },
+    {
+      "id" : ,
+      "categoryId": "geography",
+      "questionText": , 
+      "options" : ["" , "", "", ""],
+      "correctAnswerIndex": ,
+      "explanation": ""
+    },
+  ],
+  "history": [
+    {
+      "id": "hist_1",
+      "categoryId": "history",
+      "questionText": "Who was the first king of unified Nepal?",
+      "options": ["Prithvi Narayan Shah", "Tribhuvan Shah", "Birendra Shah", "Mahendra Shah"],
+      "correctAnswerIndex": 0,
+      "explanation": "Prithvi Narayan Shah unified Nepal in 1768."
+    },
+    {
+      "id": "hist_2",
+      "categoryId": "history",
+      "questionText": "When did Nepal become a republic?",
+      "options": ["2006", "2007", "2008", "2009"],
+      "correctAnswerIndex": 2,
+      "explanation": "Nepal became a federal democratic republic on May 28, 2008."
+    },
+    {
+      "id": "hist_3",
+      "categoryId": "history",
+      "questionText": "Which treaty established Nepal's current boundaries?",
+      "options": ["Sugauli Treaty", "Treaty of Kathmandu", "Nepal-India Treaty", "Peace Treaty"],
+      "correctAnswerIndex": 0,
+      "explanation": "The Sugauli Treaty of 1816 established Nepal's current boundaries."
+    },
+    {
+      "id": "hist_4",
+      "categoryId": "history",
+      "questionText": "Who is known as the 'Father of Nepali Literature'?",
+      "options": ["Bhanubhakta Acharya", "Laxmi Prasad Devkota", "Motiram Bhatta", "Lekhnath Paudyal"],
+      "correctAnswerIndex": 0,
+      "explanation": "Bhanubhakta Acharya is known as the 'Father of Nepali Literature' for translating Ramayana."
+    }
+  ],
+  "current_affairs": [
+    {
+      "id": "ca_1",
+      "categoryId": "current_affairs",
+      "questionText": "Who is the current Prime Minister of Nepal?",
+      "options": ["K.P. Sharma Oli", "Sher Bahadur Deuba", "Pushpa Kamal Dahal", "Madhav Kumar Nepal"],
+      "correctAnswerIndex": 2,
+      "explanation": "Pushpa Kamal Dahal (Prachanda) is the current Prime Minister as of 2023."
+    },
+    {
+      "id": "ca_2",
+      "categoryId": "current_affairs",
+      "questionText": "Which city hosted the 2022 SAARC Summit?",
+      "options": ["Kathmandu", "Dhaka", "Colombo", "No Summit held"],
+      "correctAnswerIndex": 3,
+      "explanation": "No SAARC Summit has been held since 2014 due to political tensions."
+    },
+    {
+      "id": "ca_3",
+      "categoryId": "current_affairs",
+      "questionText": "What is the theme of Nepal Tourism Year 2023?",
+      "options": ["Visit Nepal 2023", "Rediscover Nepal", "Natural Nepal", "Sustainable Tourism"],
+      "correctAnswerIndex": 0,
+      "explanation": "Visit Nepal 2023 aims to attract 1 million international tourists."
+    },
+    {
+      "id": "ca_4",
+      "categoryId": "current_affairs",
+      "questionText": "Which country is Nepal's largest trading partner?",
+      "options": ["India", "China", "USA", "Bangladesh"],
+      "correctAnswerIndex": 0,
+      "explanation": "India is Nepal's largest trading partner with about 65% of total trade."
+    }
+  ],
+  "mathematics": [
+    {
+      "id": "math_1",
+      "categoryId": "mathematics",
+      "questionText": "What is 25% of 200?",
+      "options": ["25", "50", "75", "100"],
+      "correctAnswerIndex": 1,
+      "explanation": "25% of 200 = (25/100) × 200 = 50"
+    },
+    {
+      "id": "math_2",
+      "categoryId": "mathematics",
+      "questionText": "If a train travels 300 km in 5 hours, what is its speed?",
+      "options": ["50 km/h", "60 km/h", "70 km/h", "80 km/h"],
+      "correctAnswerIndex": 1,
+      "explanation": "Speed = Distance/Time = 300/5 = 60 km/h"
+    },
+    {
+      "id": "math_3",
+      "categoryId": "mathematics",
+      "questionText": "What is the square root of 144?",
+      "options": ["10", "11", "12", "13"],
+      "correctAnswerIndex": 2,
+      "explanation": "12 × 12 = 144, so √144 = 12"
+    },
+    {
+      "id": "math_4",
+      "categoryId": "mathematics",
+      "questionText": "Simplify: 3x + 5x - 2x",
+      "options": ["6x", "8x", "10x", "5x"],
+      "correctAnswerIndex": 0,
+      "explanation": "3x + 5x - 2x = (3+5-2)x = 6x"
+    }
+  ],
+  "critical_thinking": [
+    {
+      "id": "ct_1",
+      "categoryId": "critical_thinking",
+      "questionText": "All roses are flowers. Some flowers fade quickly. Therefore:",
+      "options": [
+        "All roses fade quickly",
+        "Some roses fade quickly",
+        "No roses fade quickly",
+        "Some roses do not fade quickly"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Since roses are flowers and some flowers fade quickly, some roses might fade quickly."
+    },
+    {
+      "id": "ct_2",
+      "categoryId": "critical_thinking",
+      "questionText": "If A is taller than B, and B is taller than C, then:",
+      "options": [
+        "A is taller than C",
+        "C is taller than A",
+        "A and C are equal height",
+        "Cannot be determined"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "If A > B and B > C, then A > C by transitive property."
+    },
+    {
+      "id": "ct_3",
+      "categoryId": "critical_thinking",
+      "questionText": "Find the odd one out: Apple, Orange, Banana, Carrot",
+      "options": ["Apple", "Orange", "Banana", "Carrot"],
+      "correctAnswerIndex": 3,
+      "explanation": "Carrot is a vegetable, while others are fruits."
+    },
+    {
+      "id": "ct_4",
+      "categoryId": "critical_thinking",
+      "questionText": "Complete the series: 2, 4, 8, 16, ___",
+      "options": ["24", "32", "30", "28"],
+      "correctAnswerIndex": 1,
+      "explanation": "Each number is multiplied by 2: 2×2=4, 4×2=8, 8×2=16, 16×2=32"
+    }
+  ],
+  "first_paper": [
+    {
+      "id": "fp_1",
+      "categoryId": "first_paper",
+      "questionText": "What is the fundamental right related to equality in Nepal's constitution?",
+      "options": [
+        "Right to Equality",
+        "Right against Untouchability",
+        "Right to Social Justice",
+        "All of the above"
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "The constitution guarantees Right to Equality, against Untouchability, and Social Justice."
+    },
+    {
+      "id": "fp_2",
+      "categoryId": "first_paper",
+      "questionText": "Which article of Nepal's constitution establishes the Supreme Court?",
+      "options": ["Article 101", "Article 126", "Article 137", "Article 156"],
+      "correctAnswerIndex": 1,
+      "explanation": "Article 126 of Nepal's constitution establishes the Supreme Court."
+    },
+    {
+      "id": "fp_3",
+      "categoryId": "first_paper",
+      "questionText": "What is the tenure of a member of the National Assembly?",
+      "options": ["4 years", "5 years", "6 years", "7 years"],
+      "correctAnswerIndex": 2,
+      "explanation": "Members of the National Assembly serve for 6 years."
+    },
+    {
+      "id": "fp_4",
+      "categoryId": "first_paper",
+      "questionText": "Which body conducts elections in Nepal?",
+      "options": [
+        "Election Commission",
+        "Public Service Commission",
+        "Judicial Council",
+        "Constitutional Council"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The Election Commission conducts all elections in Nepal."
+    }
+  ],
+  "second_paper": [
+    {
+      "id": "sp_1",
+      "categoryId": "second_paper",
+      "questionText": "According to Police Regulation 2071, what is the minimum service requirement for promotion?",
+      "options": ["2 years", "3 years", "4 years", "5 years"],
+      "correctAnswerIndex": 1,
+      "explanation": "Minimum 3 years of service is required for promotion as per Police Regulation."
+    },
+    {
+      "id": "sp_2",
+      "categoryId": "second_paper",
+      "questionText": "Which act governs traffic rules in Nepal?",
+      "options": [
+        "Transport Management Act 2049",
+        "Vehicle and Transport Act",
+        "Road Safety Act",
+        "Traffic Control Act"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Transport Management Act 2049 governs traffic rules in Nepal."
+    },
+    {
+      "id": "sp_3",
+      "categoryId": "second_paper",
+      "questionText": "What is the punishment for bribery under Nepal's law?",
+      "options": [
+        "Up to 5 years imprisonment",
+        "Up to 7 years imprisonment",
+        "Up to 10 years imprisonment",
+        "Fine only"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Bribery can lead to up to 7 years imprisonment under Prevention of Corruption Act."
+    },
+    {
+      "id": "sp_4",
+      "categoryId": "second_paper",
+      "questionText": "Which article of Police Regulation deals with discipline?",
+      "options": ["Article 21", "Article 32", "Article 45", "Article 56"],
+      "correctAnswerIndex": 3,
+      "explanation": "Article 56 of Police Regulation 2071 deals with disciplinary actions."
+    }
+  ],
+  "third_paper": [
+    {
+      "id": "tp_1",
+      "categoryId": "third_paper",
+      "questionText": "What is the most important quality for a police officer during an interview?",
+      "options": [
+        "Physical strength",
+        "Communication skills",
+        "Academic knowledge",
+        "Family background"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Communication skills are crucial for police officers during public interactions."
+    },
+    {
+      "id": "tp_2",
+      "categoryId": "third_paper",
+      "questionText": "How should a police officer handle a conflict situation?",
+      "options": [
+        "Use force immediately",
+        "Listen to both parties",
+        "Arrest everyone",
+        "Ignore the situation"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "A police officer should listen to both parties before taking action."
+    },
+    {
+      "id": "tp_3",
+      "categoryId": "third_paper",
+      "questionText": "What is ethical policing?",
+      "options": [
+        "Following rules strictly",
+        "Respecting human rights",
+        "Both A and B",
+        "None of the above"
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Ethical policing involves following rules while respecting human rights."
+    },
+    {
+      "id": "tp_4",
+      "categoryId": "third_paper",
+      "questionText": "Why is stress management important for police officers?",
+      "options": [
+        "For personal health",
+        "For better decision making",
+        "For public safety",
+        "All of the above"
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "Stress management is crucial for health, decision-making, and public safety."
+    }
+  ],
+  "asi": [
+    {
+      "id": "asi_1",
+      "categoryId": "asi",
+      "questionText": "What is the minimum height requirement for male ASI candidates?",
+      "options": ["5'2\"", "5'3\"", "5'4\"", "5'5\""],
+      "correctAnswerIndex": 2,
+      "explanation": "Minimum height for male ASI candidates is 5 feet 4 inches (162.56 cm)."
+    },
+    {
+      "id": "asi_2",
+      "categoryId": "asi",
+      "questionText": "How many phases are there in ASI selection process?",
+      "options": ["3", "4", "5", "6"],
+      "correctAnswerIndex": 2,
+      "explanation": "ASI selection has 5 phases: Screening, Physical, Written, Medical, Interview."
+    },
+    {
+      "id": "asi_3",
+      "categoryId": "asi",
+      "questionText": "What is the passing marks for ASI written exam?",
+      "options": ["30%", "35%", "40%", "50%"],
+      "correctAnswerIndex": 2,
+      "explanation": "Minimum 40% marks required in each paper of ASI written exam."
+    },
+    {
+      "id": "asi_4",
+      "categoryId": "asi",
+      "questionText": "Which test is conducted in the second phase of ASI selection?",
+      "options": [
+        "Written Exam",
+        "Physical Endurance Test",
+        "Medical Test",
+        "Interview"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Second phase includes Physical Endurance Evaluation Test (PEET)."
+    }
+  ],
+  "inspector": [
+    {
+      "id": "ins_1",
+      "categoryId": "inspector",
+      "questionText": "What is the educational qualification for Inspector post?",
+      "options": [
+        "Bachelor's degree",
+        "Master's degree",
+        "Intermediate",
+        "No specific requirement"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Bachelor's degree is required for Inspector post in Nepal Police."
+    },
+    {
+      "id": "ins_2",
+      "categoryId": "inspector",
+      "questionText": "How many papers are in Inspector written exam?",
+      "options": ["2", "3", "4", "5"],
+      "correctAnswerIndex": 1,
+      "explanation": "Inspector written exam has 3 papers: GART, LPT, and POAT."
+    },
+    {
+      "id": "ins_3",
+      "categoryId": "inspector",
+      "questionText": "What is the duration of Inspector interview?",
+      "options": [
+        "15-20 minutes",
+        "20-30 minutes",
+        "30-40 minutes",
+        "40-50 minutes"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Inspector interview typically lasts 20-30 minutes."
+    },
+    {
+      "id": "ins_4",
+      "categoryId": "inspector",
+      "questionText": "Which competency is tested in presentation for Inspector?",
+      "options": [
+        "Communication Skills",
+        "Leadership",
+        "Problem Solving",
+        "All of the above"
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "Presentation tests Communication, Leadership, and Problem Solving competencies."
+    }
+  ]
+}

@@ -18,6 +18,7 @@ This repository contains multiple **Flutter & Dart projects** built for learning
 |  **Course Application** | An application where UI and templates were uploaded from existing github repository of mitesh77. Just the initial implementation was done to see how it actually functions. |
 |  **Currency Converter** | A hard coded application, to convert USD into NPR. Basically, multiplies given number by 144.
 i.e. Today's exchange rate. |
+|  **Weather App** | A hard coded application, its a cupertino app, optimized for apple devices. |
 
 
 > Each project has its own **README.md** with detailed instructions.
@@ -94,6 +95,10 @@ flutter_dart/
 │   ├── pubspec.yaml
 │   └── README.md
 ├── currency_converter/
+│   ├── lib/
+│   ├── pubspec.yaml
+│   └── README.md
+├── weather_app/
 │   ├── lib/
 │   ├── pubspec.yaml
 │   └── README.md

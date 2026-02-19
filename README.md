@@ -16,6 +16,8 @@ This repository contains multiple **Flutter & Dart projects** built for learning
 |  **Log Screen Application** |  A production-quality Flutter application featuring a sophisticated logging interface with local persistence, clean architecture, and Material 3 design. Designed as a reusable component for any Flutter project requiring structured logging capabilities. |  
 |  **Login/Signup Auth System** |  A production-ready Flutter authentication application with complete login/register flow, featuring SharedPreferences local persistence, clean architecture with Cubit state management, Material 3 design, and JSON serialization for user data management.|
 |  **Course Application** | An application where UI and templates were uploaded from existing github repository of mitesh77. Just the initial implementation was done to see how it actually functions. |
+|  **Currency Converter** | A hard coded application, to convert USD into NPR. Basically, multiplies given number by 144.
+i.e. Today's exchange rate. |
 
 
 > Each project has its own **README.md** with detailed instructions.
@@ -88,6 +90,10 @@ flutter_dart/
 │   ├── pubspec.yaml
 │   └── README.md
 ├── course_app/
+│   ├── lib/
+│   ├── pubspec.yaml
+│   └── README.md
+├── currency_converter/
 │   ├── lib/
 │   ├── pubspec.yaml
 │   └── README.md

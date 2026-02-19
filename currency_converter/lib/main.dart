@@ -1,6 +1,6 @@
 //import 'package:currency_converter/pages/currency_converter_material_page.dart';
 import 'package:flutter/material.dart';
-import './pages/currency_converter_material_page.dart';
+import 'currency_converter_material_page.dart';
 
 void main() {
   runApp(const MyApp());
@@ -23,6 +23,6 @@ class MyApp extends StatelessWidget {
   }); // Optionally taking from constructor and giving to widgets
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(home: CurrencyConverterMaterialPage());
+    return const MaterialApp(home: CurrencyConverterMaterialPage());
   }
 }
